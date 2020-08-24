@@ -8,7 +8,51 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": 
+    {
+                "addvps": 1, 
+                "band_suspend": "0", 
+                "bandwidth": 100, 
+                "boot": "", 
+                "bpid": 0, 
+                "burst": 0, 
+                "cores": 2, 
+                "cpu_mode": "", 
+                "hostname": "mage24testceiyg.serverguy.io", 
+                "ips": null, 
+                "ips6": null, 
+                "ipv6_subnet": null, 
+                "iso": "", 
+                "mg": [
+                    3
+                ], 
+                "network_speed": "0", 
+                "node_select": 1, 
+                "noemail": "", 
+                "num_ip_int": 0, 
+                "num_ips": 1, 
+                "num_ips6": 0, 
+                "num_ips6_subnet": 0, 
+                "num_ips_int": 0, 
+                "num_ipv4": 1, 
+                "num_ipv6": 0, 
+                "num_ipv6_subnet": 0, 
+                "osid": 100016, 
+                "osreinstall_limit": 0, 
+                "ram": 4096, 
+                "rdp": 0, 
+                "rootpass": "0jpEP2PpVN7uGDx168hac", 
+                "server_group": 9, 
+                "sgid": 9, 
+                "shadow": 0, 
+                "space": 80, 
+                "swapram": 0, 
+                "tuntap": 0, 
+                "type": "lxc", 
+                "uid": 15, 
+                "upload_speed": "-1", 
+                "vnc": 0, 
+                "vncpass": "6hvcCcPPepcRW8Wuy5jn2", 
+                "vpsid": null
+            }
 }
